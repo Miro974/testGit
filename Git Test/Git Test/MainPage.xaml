@@ -10,6 +10,7 @@
 
     <Grid>
         <StackPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <TextBlock x:Name="tbTest" Text="Hello"/>
             <Button Content="Click me" x:Name="Mybtn" Click="Mybtn_Click"></Button>
         </StackPanel>
     </Grid>
