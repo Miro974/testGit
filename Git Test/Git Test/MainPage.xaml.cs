@@ -26,5 +26,10 @@ namespace Git_Test
         {
             this.InitializeComponent();
         }
+
+        private void Mybtn_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
